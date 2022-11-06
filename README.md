@@ -1,8 +1,8 @@
 # GoMyCode Checkpoint Exercises.
-## Coding in Python 
+## GoMyCode 
 
 
-GoMyCode is a digital learning hub based in Egypt, with training centers across countries in Africa. I would be working through the coding in python checkpoints. 
+GoMyCode is a digital learning hub based in Egypt, with training centers across countries in Africa. The learning model is "learn by building".  I would be working through the coding in python checkpoints. 
 
 ## Coding In Python:
 
